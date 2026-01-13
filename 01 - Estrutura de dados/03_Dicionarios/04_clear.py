@@ -1,3 +1,4 @@
+# {}.clear é um método da classe dict que é utilizado para limpar (apagar o dicionário) 
 contatos = {
     "guilherme@gmail.com": {"nome": "Guilherme", "telefone": "3333-2221"},
     "giovanna@gmail.com": {"nome": "Giovanna", "telefone": "3443-2121"},

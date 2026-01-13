@@ -1,3 +1,4 @@
+# A forma mais comum para percorrer os dados de um dicionário é utilizando o comando (FOR)
 contatos = {
     "guilherme@gmail.com": {"nome": "Guilherme", "telefone": "3333-2221"},
     "giovanna@gmail.com": {"nome": "Giovanna", "telefone": "3443-2121"},
@@ -10,5 +11,5 @@ for chave in contatos:
 
 print("=" * 100)
 
-for chave, valor in contatos.items():
+for chave, valor in contatos.items(): # O método items retornar uma lista de tuplas
     print(chave, valor)

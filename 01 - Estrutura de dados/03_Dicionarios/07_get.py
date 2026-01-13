@@ -1,4 +1,4 @@
-# Uma segunda forma de acessar um valor dentro do dicionário.add()
+# {}.get  é um método da classe dict que é utilizado como segunda forma de acessar valores dentro de um dicionário
 
 contatos = {"guilherme@gmail.com": {"nome": "Guilherme", "telefone": "3333-2221"}}
 

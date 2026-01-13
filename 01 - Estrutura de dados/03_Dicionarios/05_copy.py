@@ -1,3 +1,5 @@
+# {}.copy é um método da classe dict que é utilizado para criar uma cópia do nosso dicionário
+
 contatos = {"guilherme@gmail.com": {"nome": "Guilherme", "telefone": "3333-2221"}}
 
 copia = contatos.copy()

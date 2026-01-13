@@ -1,4 +1,4 @@
-# Retorna uma lista de tuplas
+# {}.items é um método da classe dict que é utilizado para retornar uma lista de tuplas
 
 contatos = {"guilherme@gmail.com": {"nome": "Guilherme", "telefone": "3333-2221"}}
 

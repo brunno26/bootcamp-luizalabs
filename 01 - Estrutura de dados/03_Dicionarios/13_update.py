@@ -1,3 +1,5 @@
+# {}.setdefault é um método da classe dict que é utilizado para atualizar o dicionário com outro dicionário
+
 contatos = {"guilherme@gmail.com": {"nome": "Guilherme", "telefone": "3333-2221"}}
 
 contatos.update({"guilherme@gmail.com": {"nome": "Gui"}})
